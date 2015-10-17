@@ -7,3 +7,5 @@
  CH4 - PD11<br>
 
 Test - PD3<br>
+
+This is only a draft version of the oscilloscope, without any external hardware designed yet.
